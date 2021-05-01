@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 namespace Less07
 {
+
+    // Не ясна работа Stack
     public partial class Form1 : Form
     {
         public static int myCountCommand = 0;
