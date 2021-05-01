@@ -31,11 +31,7 @@ namespace Less07
         }
         //Stack<int> st = new Stack<int>();
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
+      
         private void btnCommand1_Click(object sender, EventArgs e)
         {
             //st.Push(int.Parse(lblNumber.Text));
@@ -101,7 +97,7 @@ namespace Less07
 
         private void butBack_Click(object sender, EventArgs e)
         {
-            //st.Pop();
+            //st.Pop(); 
         }
         private void btnReset_Click(object sender, EventArgs e)
         {
